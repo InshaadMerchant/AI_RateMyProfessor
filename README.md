@@ -1,5 +1,5 @@
 
-# Professor Recommendation Chatbot
+# AI Rate My Professor App
 
 ## Overview
 The Professor Recommendation Chatbot is a cutting-edge Next.js application, leveraging the robust RAG (Retrieval-Augmented Generation) model to assist students in selecting ideal professors for their courses. This chatbot provides instant, reliable recommendations by listing the top three professors for a selected course, complete with ratings.
