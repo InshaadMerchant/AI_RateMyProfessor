@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Watkins",
+        "subject": "Intro to Psychology",
+        "stars": 4,
+        "review": "Dr. Watkins is an engaging and knowledgeable professor who makes the material come alive. Her lectures are always interesting and she is genuinely passionate about the subject."
+      },
+      {
+        "professor": "Professor Michael Nguyen",
+        "subject": "Calculus I",
+        "stars": 3,
+        "review": "Professor Nguyen is a competent lecturer, but his teaching style can be dry at times. The course material is challenging, and he doesn't always provide clear explanations."
+      },
+      {
+        "professor": "Dr. Sarah Goldstein",
+        "subject": "American Literature",
+        "stars": 5,
+        "review": "Dr. Goldstein is an excellent professor who truly cares about her students' success. Her lectures are thought-provoking, and she encourages lively discussions. I learned so much in her class."
+      },
+      {
+        "professor": "Professor Liam Donovan",
+        "subject": "Intro to Computer Science",
+        "stars": 4,
+        "review": "Professor Donovan is knowledgeable and enthusiastic about the subject. His lectures are well-organized, and he is always available to help students during office hours."
+      },
+      {
+        "professor": "Dr. Olivia Fernandez",
+        "subject": "Environmental Biology",
+        "stars": 4,
+        "review": "Dr. Fernandez is a passionate and engaging professor who makes complex topics easy to understand. Her field trips and hands-on activities really enhance the learning experience."
+      },
+      {
+        "professor": "Professor Ethan Gonzalez",
+        "subject": "World History",
+        "stars": 3,
+        "review": "Professor Gonzalez is knowledgeable, but his lectures can be dry and monotonous at times. The course material is interesting, but he doesn't always make it engaging for the students."
+      },
+      {
+        "professor": "Dr. Ava Patel",
+        "subject": "Organic Chemistry",
+        "stars": 5,
+        "review": "Dr. Patel is an exceptional professor who genuinely cares about her students' success. Her explanations of complex topics are clear and concise, and she is always available to provide additional support."
+      },
+      {
+        "professor": "Professor Logan Hernandez",
+        "subject": "Intro to Marketing",
+        "stars": 4,
+        "review": "Professor Hernandez is a knowledgeable and engaging lecturer. He uses real-world examples to illustrate the concepts, which helps students better understand the material."
+      },
+      {
+        "professor": "Dr. Isabella Rossi",
+        "subject": "Modern European History",
+        "stars": 4,
+        "review": "Dr. Rossi is a passionate and knowledgeable professor who brings the subject matter to life. Her lectures are always well-organized and thought-provoking."
+      },
+      {
+        "professor": "Professor Aiden Nguyen",
+        "subject": "Intro to Sociology",
+        "stars": 3,
+        "review": "Professor Nguyen is knowledgeable, but his teaching style can be a bit dry at times. The course material is interesting, but he doesn't always make it engaging for the students."
+      },
+      {
+        "professor": "Dr. Sophia Hernandez",
+        "subject": "Organic Chemistry",
+        "stars": 5,
+        "review": "Dr. Hernandez is an exceptional professor who truly cares about her students' success. Her explanations of complex topics are clear and concise, and she is always available to provide additional support."
+      },
+      {
+        "professor": "Professor Liam Morales",
+        "subject": "Intro to Marketing",
+        "stars": 4,
+        "review": "Professor Morales is a knowledgeable and engaging lecturer. He uses real-world examples to illustrate the concepts, which helps students better understand the material."
+      },
+      {
+        "professor": "Dr. Emma Gonzalez",
+        "subject": "Modern European History",
+        "stars": 4,
+        "review": "Dr. Gonzalez is a passionate and knowledgeable professor who brings the subject matter to life. Her lectures are always well-organized and thought-provoking."
+      },
+      {
+        "professor": "Professor Ethan Patel",
+        "subject": "Intro to Sociology",
+        "stars": 3,
+        "review": "Professor Patel is knowledgeable, but his teaching style can be a bit dry at times. The course material is interesting, but he doesn't always make it engaging for the students."
+      },
+      {
+        "professor": "Dr. Ava Morales",
+        "subject": "Environmental Biology",
+        "stars": 4,
+        "review": "Dr. Morales is a passionate and engaging professor who makes complex topics easy to understand. Her field trips and hands-on activities really enhance the learning experience."
+      },
+      {
+        "professor": "Professor Isabella Donovan",
+        "subject": "Intro to Computer Science",
+        "stars": 4,
+        "review": "Professor Donovan is knowledgeable and enthusiastic about the subject. Her lectures are well-organized, and she is always available to help students during office hours."
+      },
+      {
+        "professor": "Dr. Logan Rossi",
+        "subject": "American Literature",
+        "stars": 5,
+        "review": "Dr. Rossi is an excellent professor who truly cares about her students' success. Her lectures are thought-provoking, and she encourages lively discussions. I learned so much in her class."
+      },
+      {
+        "professor": "Professor Sophia Watkins",
+        "subject": "Intro to Psychology",
+        "stars": 4,
+        "review": "Professor Watkins is an engaging and knowledgeable professor who makes the material come alive. Her lectures are always interesting and she is genuinely passionate about the subject."
+      },
+      {
+        "professor": "Dr. Aiden Fernandez",
+        "subject": "Calculus I",
+        "stars": 3,
+        "review": "Dr. Fernandez is a competent lecturer, but his teaching style can be dry at times. The course material is challenging, and he doesn't always provide clear explanations."
+      },
+      {
+        "professor": "Professor Emma Nguyen",
+        "subject": "World History",
+        "stars": 3,
+        "review": "Professor Nguyen is knowledgeable, but her lectures can be dry and monotonous at times. The course material is interesting, but she doesn't always make it engaging for the students."
+      }
+    ]
+  }
