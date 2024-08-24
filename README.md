@@ -58,4 +58,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - GitHub: https://github.com/InshaadMerchant
 - LinkedIn: www.linkedin.com/in/inshaadmerchant
 
->>>>>>> 7e4a097e24a6a7a396c28a117d5f806812648f12
