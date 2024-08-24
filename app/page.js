@@ -1,6 +1,9 @@
-'Use Client'
+'use client'
+
 import React, { useState } from 'react';
 import Image from "next/image";
+import { Box,Stack,TextField,Button } from '@mui/material';
+
 export default function Home() {
   const [messages, setMessages] = useState([
     {
@@ -48,6 +51,7 @@ export default function Home() {
   }
 
   return (
+
     <Box
         width="100vw"
         height="100vh"

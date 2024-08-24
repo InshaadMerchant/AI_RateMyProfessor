@@ -43,6 +43,7 @@ Before you begin, ensure you have the following installed:
 
    ```bash
    npm install
+   npm install @mui/material @emotion/react @emotion/styled
    pip install python-dotenv openai pinecone
    ```
 
