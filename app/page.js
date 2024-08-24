@@ -1,4 +1,5 @@
 'Use Client'
+import React, { useState } from 'react';
 import Image from "next/image";
 export default function Home() {
   const [messages, setMessages] = useState([
